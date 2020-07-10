@@ -1,0 +1,12 @@
+.card {
+    border: solid 1px  #65786a;;
+    width: 30%;
+    margin: 2%;
+    font-family: 'Mukta', sans-serif;
+    color: #555;
+}
+
+p{
+    text-align: left;
+    margin: 1rem;
+}
